@@ -1,5 +1,6 @@
 // Sistemas Operativos - Equipo 5
 // FIFO and LRU Algorithm
+// Version 1
 
 #include <iostream>
 #include <string>
